@@ -1,6 +1,4 @@
 const os = require('node:os');
-const buffer = require('node:buffer');
-
 const userInfo = os.userInfo();
 
 console.log("\n\n--------------------------------");
