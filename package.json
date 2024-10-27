@@ -1,0 +1,12 @@
+{
+  "name": "userinfo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["user", "info"],
+  "author": "",
+  "license": "ISC",
+  "description": "Returns domain name, user name and home directory information."
+}
